@@ -1,4 +1,4 @@
-public class  {
+public class  sort {
 public static void main(String args[]){
 int arr[] = {45,8,14,1,52,16,2,10};
 int size = arr.length;
